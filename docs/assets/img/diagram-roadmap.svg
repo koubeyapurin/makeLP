@@ -1,0 +1,24 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 420" width="1200" height="420" role="img" aria-labelledby="t d" font-family="'Noto Sans JP','Hiragino Sans','Yu Gothic',Meiryo,sans-serif">
+<title id="t">ロードマップ</title>
+<desc id="d">フェーズ1は1都市で小規模にリース開始、フェーズ2は3〜5都市へ拡大、フェーズ3は日本側ハブで双方向の交流へ。</desc>
+<rect width="1200" height="420" fill="#fff"/>
+<polygon points="40,60 400,60 440,160 400,260 40,260" fill="#F7F8FA" stroke="#DDE1E8"/>
+<polygon points="380,60 780,60 820,160 780,260 380,260 420,160" fill="#EEF0F4" stroke="#DDE1E8"/>
+<polygon points="760,60 1160,60 1160,260 760,260 800,160" fill="#0B1530"/>
+<g text-anchor="middle" font-weight="700">
+<text x="215" y="108" font-size="15" letter-spacing="3" fill="#B08D3E">PHASE 1</text>
+<text x="215" y="162" font-size="28" fill="#0B1530">1都市・小規模</text>
+<text x="215" y="204" font-size="17" fill="#5A6478" font-weight="400">運営委託またはリースで始める</text>
+<text x="600" y="108" font-size="15" letter-spacing="3" fill="#B08D3E">PHASE 2</text>
+<text x="600" y="162" font-size="28" fill="#0B1530">3〜5都市へ</text>
+<text x="600" y="204" font-size="17" fill="#5A6478" font-weight="400">拠点を段階的に増やす</text>
+<text x="990" y="108" font-size="15" letter-spacing="3" fill="#EFD98A">PHASE 3</text>
+<text x="990" y="162" font-size="28" fill="#fff">日本側ハブで双方向</text>
+<text x="990" y="204" font-size="17" fill="#E6E9F0" font-weight="400">海外と日本、どちらからも出会える</text>
+</g>
+<g fill="none" stroke="#B08D3E" stroke-width="3" stroke-linecap="round" stroke-linejoin="round">
+<path d="M40 330H1150"/><path d="M1134 314l18 16-18 16"/></g>
+<g fill="#fff" stroke="#B08D3E" stroke-width="3"><circle cx="215" cy="330" r="9"/><circle cx="600" cy="330" r="9"/><circle cx="990" cy="330" r="9"/></g>
+<text x="40" y="380" font-size="14" letter-spacing="3" fill="#B08D3E" font-weight="700">SMALL START</text>
+<text x="1160" y="380" font-size="14" letter-spacing="3" fill="#B08D3E" font-weight="700" text-anchor="end">TWO-WAY</text>
+</svg>

@@ -1,0 +1,8 @@
+.DS_Store
+node_modules/
+# 非公開(チーム内資料・調査・参考サイトのスクショ等)
+事業案（現段階）/
+career-rookies-research/
+reference-sites/
+shots/
+LP-BRIEF.md
