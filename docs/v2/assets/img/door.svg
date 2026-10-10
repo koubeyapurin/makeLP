@@ -1,29 +1,31 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 800" width="800" height="800" role="img" aria-labelledby="t d" font-family="'Noto Sans JP','Hiragino Sans','Yu Gothic',Meiryo,sans-serif">
 <title id="t">扉の向こうの街</title>
 <desc id="d">半開きの扉の向こうに、異国の街並みと二人の人影が見える。</desc>
-<rect width="800" height="800" fill="#F4EFE6"/>
-<defs><linearGradient id="sky" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#EADBC3"/><stop offset="1" stop-color="#F6EBDA"/></linearGradient><clipPath id="op"><rect x="330" y="150" width="250" height="470"/></clipPath></defs>
-<path d="M0 620H800V800H0z" fill="#ECE4D6"/>
-<path d="M0 620H800" stroke="#1E2A3A" stroke-width="1.5"/>
-<path d="M330 620H580L700 800H250z" fill="#F8F0E2"/>
+<defs><linearGradient id="g" x1="0" y1="0" x2="1" y2="0"><stop offset="0" stop-color="#cd0401"/><stop offset=".5" stop-color="#de300b"/><stop offset="1" stop-color="#ea5213"/></linearGradient><filter id="sh" x="-10%" y="-10%" width="120%" height="140%"><feDropShadow dx="0" dy="8" stdDeviation="7" flood-color="#323232" flood-opacity=".12"/></filter></defs>
+<rect width="800" height="800" fill="#f6f6f6"/>
+<defs><linearGradient id="sky" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#dfeaec"/><stop offset="1" stop-color="#f3f7f7"/></linearGradient><clipPath id="op"><rect x="330" y="150" width="250" height="470"/></clipPath></defs>
+<path d="M0 120C200 60 360 170 560 110S760 60 800 80" fill="none" stroke="url(#g)" stroke-width="1" opacity=".5"/>
+<path d="M0 620H800V800H0z" fill="#ececec"/>
+<path d="M0 620H800" stroke="#d4d4d4" stroke-width="1.5"/>
+<path d="M330 620H580L700 800H250z" fill="#ffffff"/>
 <g clip-path="url(#op)">
 <rect x="330" y="150" width="250" height="470" fill="url(#sky)"/>
-<circle cx="520" cy="330" r="34" fill="#C8733A"/>
-<path d="M330 470V430h30v-20h24v20h20V400l10-40 10 40v70h26v-34h30v-16h10v-20l8-30 8 30v20h10v16h20v84z" fill="#B9B7B0"/>
-<path d="M330 470h250v-26h-30v-28h-22l-14-20-14 20h-22v28h-26v-44h-40v44h-36v-18h-30z" fill="#8E95A0"/>
-<path d="M330 520V452h58v-14h10v14h40v68z" fill="#5E6876"/><path d="M508 520V440q36-30 72 0v80z" fill="#5E6876"/>
-<path d="M348 500v-22q6-8 12 0v22z" fill="#EADBC3" opacity=".7"/>
-<path d="M372 500v-22q6-8 12 0v22z" fill="#EADBC3" opacity=".7"/>
-<path d="M412 500v-22q6-8 12 0v22z" fill="#EADBC3" opacity=".7"/>
-<path d="M532 500v-26q8-10 16 0v26z" fill="#EADBC3" opacity=".7"/>
-<path d="M330 520H580V620H330z" fill="#E3D3B8"/><path d="M440 520h30l60 100H380z" fill="#EEE2CD"/>
-<circle cx="438" cy="510.24" r="9.24" fill="#1E2A3A"/><path d="M427.08 564.0L425.4 526.2Q438 517.8 450.6 526.2L448.92 564.0z" fill="#1E2A3A"/><path d="M432.96 562.32L435.28 585M443.04 562.32L440.72 585" stroke="#1E2A3A" stroke-width="5.880000000000001" stroke-linecap="round"/>
-<circle cx="486" cy="512.36" r="8.36" fill="#1E2A3A"/><path d="M476.12 561.0L474.6 526.8Q486 519.2 497.4 526.8L495.88 561.0z" fill="#1E2A3A"/><path d="M481.44 559.48L476.92 580M490.56 559.48L495.08 580" stroke="#1E2A3A" stroke-width="5.32" stroke-linecap="round"/>
+<circle cx="520" cy="330" r="30" fill="none" stroke="url(#g)" stroke-width="1.5"/><circle cx="520" cy="330" r="22" fill="#ea5213" opacity=".9"/>
+<path d="M330 470V430h30v-20h24v20h20V400l10-40 10 40v70h26v-34h30v-16h10v-20l8-30 8 30v20h10v16h20v84z" fill="#b9cacd"/>
+<path d="M330 470h250v-26h-30v-28h-22l-14-20-14 20h-22v28h-26v-44h-40v44h-36v-18h-30z" fill="#7d9ea5"/>
+<path d="M330 520V452h58v-14h10v14h40v68z" fill="#005064"/><path d="M508 520V440q36-30 72 0v80z" fill="#005064"/>
+<path d="M348 500v-22q6-8 12 0v22z" fill="#dfeaec" opacity=".75"/>
+<path d="M372 500v-22q6-8 12 0v22z" fill="#dfeaec" opacity=".75"/>
+<path d="M412 500v-22q6-8 12 0v22z" fill="#dfeaec" opacity=".75"/>
+<path d="M532 500v-26q8-10 16 0v26z" fill="#dfeaec" opacity=".75"/>
+<path d="M330 520H580V620H330z" fill="#e4e4e4"/><path d="M440 520h30l60 100H380z" fill="#f4f4f4"/>
+<circle cx="440" cy="516.4" r="10.4" fill="#001c7b"/><path d="M426.4 586V539.6Q426.4 530.0 440 530.0Q453.6 530.0 453.6 539.6V586z" fill="#001c7b"/><path d="M440 558.0V586" stroke="#f4f4f4" stroke-width="1.2"/>
+<circle cx="484" cy="518.4" r="9.4" fill="#323232"/><path d="M471.8 581V539.2Q471.8 530.6 484 530.6Q496.2 530.6 496.2 539.2V581z" fill="#323232"/><path d="M484 555.8V581" stroke="#f4f4f4" stroke-width="1.2"/>
 </g>
-<rect x="318" y="138" width="274" height="482" fill="none" stroke="#1E2A3A" stroke-width="2"/><rect x="330" y="150" width="250" height="470" fill="none" stroke="#1E2A3A" stroke-width="1.5"/>
-<path d="M330 620L218 690L150 690L270 620z" fill="#E3D9C8"/>
-<path d="M330 150L218 108V690L330 620z" fill="#FBF7F0" stroke="#1E2A3A" stroke-width="1.5"/>
-<path d="M318 178L236 150V360L318 372z" fill="none" stroke="#1E2A3A" stroke-width="1"/><path d="M318 400L236 392V630L318 596z" fill="none" stroke="#1E2A3A" stroke-width="1"/>
-<circle cx="232" cy="402" r="5" fill="#1E2A3A"/><path d="M232 402h-14" stroke="#1E2A3A" stroke-width="2" stroke-linecap="round"/>
-<path d="M80 720h60" stroke="#1E2A3A" stroke-width="1"/><text x="150" y="725" font-size="15" fill="#5B6472" text-anchor="start" font-weight="400" font-family="'Cormorant Garamond','Times New Roman',Georgia,serif" letter-spacing="2" font-style="italic">the door to a new place</text>
+<rect x="318" y="138" width="274" height="482" fill="none" stroke="#323232" stroke-width="1.5"/><rect x="330" y="150" width="250" height="470" fill="none" stroke="#323232" stroke-width="1.5"/>
+<path d="M330 620L218 690L150 690L270 620z" fill="#e2e2e2"/>
+<path d="M330 150L218 108V690L330 620z" fill="#fff" stroke="#323232" stroke-width="1.5"/>
+<path d="M318 178L236 150V360L318 372z" fill="none" stroke="#d4d4d4" stroke-width="1.5"/><path d="M318 400L236 392V630L318 596z" fill="none" stroke="#d4d4d4" stroke-width="1.5"/>
+<circle cx="232" cy="402" r="4" fill="#323232"/><path d="M232 402h-14" stroke="#323232" stroke-width="2" stroke-linecap="round"/>
+<path d="M80 720h60" stroke="#ea5213" stroke-width="1.5"/><text x="150" y="725" font-size="14" fill="#6b6b6b" text-anchor="start" font-weight="400" font-family="'Open Sans','Helvetica Neue',Arial,sans-serif" letter-spacing="1.5">the door to a new place</text>
 </svg>

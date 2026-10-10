@@ -1,27 +1,35 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 380" width="1200" height="380" role="img" aria-labelledby="t d" font-family="'Noto Sans JP','Hiragino Sans','Yu Gothic',Meiryo,sans-serif">
 <title id="t">ロードマップ</title>
 <desc id="d">フェーズ1は1都市で拠点を持たず会員とプログラムから。フェーズ2は東南アジアの3〜5都市と観光の隣接業種へ。フェーズ3は日本側でインバウンド・地域へ。</desc>
-<rect width="1200" height="380" fill="#F4EFE6"/>
-<path d="M40 100H1140M1124 92l16 8-16 8" fill="none" stroke="#1E2A3A" stroke-width="1.5"/>
-<circle cx="60" cy="100" r="9" fill="#F4EFE6" stroke="#1E2A3A" stroke-width="1.5"/>
-<text x="40" y="62" font-size="16" fill="#5B6472" text-anchor="start" font-weight="400" font-family="'Cormorant Garamond','Times New Roman',Georgia,serif" letter-spacing="2" font-style="italic">phase I</text>
-<rect x="40" y="140" width="340" height="200" fill="#FBF8F2" stroke="#1E2A3A" stroke-width="1.2"/>
-<text x="68" y="200" font-size="34" fill="#C8733A" text-anchor="start" font-weight="400" font-family="'Cormorant Garamond','Times New Roman',Georgia,serif">I</text>
-<text x="68" y="250" font-size="24" fill="#1E2A3A" text-anchor="start" font-weight="600" font-family="'Shippori Mincho','Noto Serif JP','Hiragino Mincho ProN','Yu Mincho',serif">1都市から</text>
-<text x="68" y="286" font-size="16" fill="#5B6472" text-anchor="start" font-weight="400">拠点を持たず、</text>
-<text x="68" y="312" font-size="16" fill="#5B6472" text-anchor="start" font-weight="400">会員とプログラムから</text>
-<circle cx="440" cy="100" r="9" fill="#F4EFE6" stroke="#1E2A3A" stroke-width="1.5"/>
-<text x="420" y="62" font-size="16" fill="#5B6472" text-anchor="start" font-weight="400" font-family="'Cormorant Garamond','Times New Roman',Georgia,serif" letter-spacing="2" font-style="italic">phase II</text>
-<rect x="420" y="140" width="340" height="200" fill="#FBF8F2" stroke="#1E2A3A" stroke-width="1.2"/>
-<text x="448" y="200" font-size="34" fill="#C8733A" text-anchor="start" font-weight="400" font-family="'Cormorant Garamond','Times New Roman',Georgia,serif">II</text>
-<text x="448" y="250" font-size="24" fill="#1E2A3A" text-anchor="start" font-weight="600" font-family="'Shippori Mincho','Noto Serif JP','Hiragino Mincho ProN','Yu Mincho',serif">東南アジアの3〜5都市</text>
-<text x="448" y="286" font-size="16" fill="#5B6472" text-anchor="start" font-weight="400">観光の隣接業種へ</text>
-<text x="448" y="312" font-size="16" fill="#5B6472" text-anchor="start" font-weight="400">広げる</text>
-<circle cx="820" cy="100" r="9" fill="#C8733A" stroke="#C8733A" stroke-width="1.5"/>
-<text x="800" y="62" font-size="16" fill="#A3521C" text-anchor="start" font-weight="400" font-family="'Cormorant Garamond','Times New Roman',Georgia,serif" letter-spacing="2" font-style="italic">phase III</text>
-<rect x="800" y="140" width="340" height="200" fill="#1E2A3A" stroke="#1E2A3A" stroke-width="1.2"/>
-<text x="828" y="200" font-size="34" fill="#E9B48A" text-anchor="start" font-weight="400" font-family="'Cormorant Garamond','Times New Roman',Georgia,serif">III</text>
-<text x="828" y="250" font-size="24" fill="#FFFFFF" text-anchor="start" font-weight="600" font-family="'Shippori Mincho','Noto Serif JP','Hiragino Mincho ProN','Yu Mincho',serif">日本側へ</text>
-<text x="828" y="286" font-size="16" fill="#E6E1D6" text-anchor="start" font-weight="400">インバウンド・地域</text>
-<text x="828" y="312" font-size="16" fill="#E6E1D6" text-anchor="start" font-weight="400">海外の事業者と日本の地域をつなぐ</text>
+<defs><linearGradient id="g" x1="0" y1="0" x2="1" y2="0"><stop offset="0" stop-color="#cd0401"/><stop offset=".5" stop-color="#de300b"/><stop offset="1" stop-color="#ea5213"/></linearGradient><filter id="sh" x="-10%" y="-10%" width="120%" height="140%"><feDropShadow dx="0" dy="8" stdDeviation="7" flood-color="#323232" flood-opacity=".12"/></filter></defs>
+<rect width="1200" height="380" fill="#f6f6f6"/>
+<path d="M40 120 C68.3 116.0 116.7 101.0 210 96 C303.3 91.0 470.0 95.3 600 90 C730.0 84.7 896.7 70.0 990 64 C1083.3 58.0 1131.7 55.7 1160 54" fill="none" stroke="url(#g)" stroke-width="1.5"/><path d="M40 120 C68.3 116.0 116.7 101.0 210 96 C303.3 91.0 470.0 95.3 600 90 C730.0 84.7 896.7 70.0 990 64 C1083.3 58.0 1131.7 55.7 1160 54" fill="none" stroke="#d4d4d4" stroke-width="1" stroke-dasharray="2 6" transform="translate(0 14)"/>
+<circle cx="40" cy="120" r="4" fill="#001c7b"/><circle cx="1160" cy="54" r="4" fill="#cc0000"/>
+<path d="M210 104V150" stroke="#d4d4d4" stroke-width="1" stroke-dasharray="2 4"/>
+<circle cx="210" cy="96" r="7" fill="#fff" stroke="#ea5213" stroke-width="1.5"/><circle cx="210" cy="96" r="3" fill="#ea5213"/>
+<text x="224" y="82" font-size="14" fill="#6b6b6b" text-anchor="start" font-weight="500" font-family="'Open Sans','Helvetica Neue',Arial,sans-serif" letter-spacing="1.5">phase I</text>
+<rect x="40" y="150" width="340" height="200" rx="4" fill="#fff" filter="url(#sh)"/>
+<rect x="40" y="150" width="340" height="3" fill="#001c7b"/>
+<text x="68" y="206" font-size="32" fill="#cc0000" text-anchor="start" font-weight="400" font-family="Georgia,'Times New Roman',serif">I</text>
+<text x="68" y="254" font-size="24" fill="#323232" text-anchor="start" font-weight="700">1都市から</text>
+<text x="68" y="290" font-size="16" fill="#6b6b6b" text-anchor="start" font-weight="400">拠点を持たず、</text>
+<text x="68" y="316" font-size="16" fill="#6b6b6b" text-anchor="start" font-weight="400">会員とプログラムから</text>
+<path d="M600 98V150" stroke="#d4d4d4" stroke-width="1" stroke-dasharray="2 4"/>
+<circle cx="600" cy="90" r="7" fill="#fff" stroke="#ea5213" stroke-width="1.5"/><circle cx="600" cy="90" r="3" fill="#ea5213"/>
+<text x="614" y="76" font-size="14" fill="#6b6b6b" text-anchor="start" font-weight="500" font-family="'Open Sans','Helvetica Neue',Arial,sans-serif" letter-spacing="1.5">phase II</text>
+<rect x="420" y="150" width="340" height="200" rx="4" fill="#fff" filter="url(#sh)"/>
+<rect x="420" y="150" width="340" height="3" fill="#005064"/>
+<text x="448" y="206" font-size="32" fill="#cc0000" text-anchor="start" font-weight="400" font-family="Georgia,'Times New Roman',serif">II</text>
+<text x="448" y="254" font-size="24" fill="#323232" text-anchor="start" font-weight="700">東南アジアの3〜5都市</text>
+<text x="448" y="290" font-size="16" fill="#6b6b6b" text-anchor="start" font-weight="400">観光の隣接業種へ</text>
+<text x="448" y="316" font-size="16" fill="#6b6b6b" text-anchor="start" font-weight="400">広げる</text>
+<path d="M990 72V150" stroke="#d4d4d4" stroke-width="1" stroke-dasharray="2 4"/>
+<circle cx="990" cy="64" r="7" fill="#fff" stroke="#cc0000" stroke-width="1.5"/><circle cx="990" cy="64" r="3" fill="#cc0000"/>
+<text x="1004" y="50" font-size="14" fill="#cc0000" text-anchor="start" font-weight="500" font-family="'Open Sans','Helvetica Neue',Arial,sans-serif" letter-spacing="1.5">phase III</text>
+<rect x="800" y="150" width="340" height="200" rx="4" fill="#fff" filter="url(#sh)"/>
+<rect x="800" y="150" width="340" height="3" fill="url(#g)"/>
+<text x="828" y="206" font-size="32" fill="#cc0000" text-anchor="start" font-weight="400" font-family="Georgia,'Times New Roman',serif">III</text>
+<text x="828" y="254" font-size="24" fill="#323232" text-anchor="start" font-weight="700">日本側へ</text>
+<text x="828" y="290" font-size="16" fill="#6b6b6b" text-anchor="start" font-weight="400">インバウンド・地域</text>
+<text x="828" y="316" font-size="16" fill="#6b6b6b" text-anchor="start" font-weight="400">海外の事業者と日本の地域をつなぐ</text>
 </svg>

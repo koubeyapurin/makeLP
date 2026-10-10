@@ -1,47 +1,49 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 420" width="1200" height="420" role="img" aria-labelledby="t d" font-family="'Noto Sans JP','Hiragino Sans','Yu Gothic',Meiryo,sans-serif">
 <title id="t">体験の流れ</title>
 <desc id="d">入会時カルテ、月次の集まり、紹介、商談、協業、継続(12か月)の6段。後半3段は繋いだ後として、30日・90日のフォロー、同業の先行会員の共有会、商習慣の短い講座で支える。</desc>
-<rect width="1200" height="420" fill="#F4EFE6"/>
-<path d="M100 96H1100" stroke="#1E2A3A" stroke-width="1.5"/>
-<circle cx="100" cy="96" r="11" fill="#F4EFE6" stroke="#1E2A3A" stroke-width="1.5"/>
-<text x="100" y="58" font-size="16" fill="#5B6472" text-anchor="middle" font-weight="400" font-family="'Cormorant Garamond','Times New Roman',Georgia,serif" letter-spacing="2" font-style="italic">01</text>
-<text x="100" y="150" font-size="22" fill="#1E2A3A" text-anchor="middle" font-weight="600" font-family="'Shippori Mincho','Noto Serif JP','Hiragino Mincho ProN','Yu Mincho',serif">入会時カルテ</text>
-<text x="100" y="204" font-size="14" fill="#5B6472" text-anchor="middle" font-weight="400">目的と課題を聞き取る</text>
-<circle cx="300" cy="96" r="11" fill="#F4EFE6" stroke="#1E2A3A" stroke-width="1.5"/>
-<text x="300" y="58" font-size="16" fill="#5B6472" text-anchor="middle" font-weight="400" font-family="'Cormorant Garamond','Times New Roman',Georgia,serif" letter-spacing="2" font-style="italic">02</text>
-<text x="300" y="150" font-size="22" fill="#1E2A3A" text-anchor="middle" font-weight="600" font-family="'Shippori Mincho','Noto Serif JP','Hiragino Mincho ProN','Yu Mincho',serif">月次の集まり</text>
-<text x="300" y="204" font-size="14" fill="#5B6472" text-anchor="middle" font-weight="400">現地の相手と会う</text>
-<circle cx="500" cy="96" r="11" fill="#F4EFE6" stroke="#1E2A3A" stroke-width="1.5"/>
-<text x="500" y="58" font-size="16" fill="#5B6472" text-anchor="middle" font-weight="400" font-family="'Cormorant Garamond','Times New Roman',Georgia,serif" letter-spacing="2" font-style="italic">03</text>
-<text x="500" y="150" font-size="22" fill="#1E2A3A" text-anchor="middle" font-weight="600" font-family="'Shippori Mincho','Noto Serif JP','Hiragino Mincho ProN','Yu Mincho',serif">紹介</text>
-<text x="500" y="204" font-size="14" fill="#5B6472" text-anchor="middle" font-weight="400">必要な相手を引き合わせる</text>
-<circle cx="700" cy="96" r="14" fill="#1E2A3A" stroke="#1E2A3A" stroke-width="1.5"/>
-<text x="700" y="58" font-size="16" fill="#A3521C" text-anchor="middle" font-weight="400" font-family="'Cormorant Garamond','Times New Roman',Georgia,serif" letter-spacing="2" font-style="italic">04</text>
-<text x="700" y="150" font-size="22" fill="#1E2A3A" text-anchor="middle" font-weight="600" font-family="'Shippori Mincho','Noto Serif JP','Hiragino Mincho ProN','Yu Mincho',serif">商談</text>
-<text x="700" y="204" font-size="14" fill="#5B6472" text-anchor="middle" font-weight="400">話を前に進める</text>
-<circle cx="900" cy="96" r="14" fill="#1E2A3A" stroke="#1E2A3A" stroke-width="1.5"/>
-<text x="900" y="58" font-size="16" fill="#A3521C" text-anchor="middle" font-weight="400" font-family="'Cormorant Garamond','Times New Roman',Georgia,serif" letter-spacing="2" font-style="italic">05</text>
-<text x="900" y="150" font-size="22" fill="#1E2A3A" text-anchor="middle" font-weight="600" font-family="'Shippori Mincho','Noto Serif JP','Hiragino Mincho ProN','Yu Mincho',serif">協業</text>
-<text x="900" y="204" font-size="14" fill="#5B6472" text-anchor="middle" font-weight="400">一緒に仕事を始める</text>
-<circle cx="1100" cy="96" r="14" fill="#1E2A3A" stroke="#1E2A3A" stroke-width="1.5"/>
-<text x="1100" y="58" font-size="16" fill="#A3521C" text-anchor="middle" font-weight="400" font-family="'Cormorant Garamond','Times New Roman',Georgia,serif" letter-spacing="2" font-style="italic">06</text>
-<text x="1100" y="150" font-size="22" fill="#1E2A3A" text-anchor="middle" font-weight="600" font-family="'Shippori Mincho','Noto Serif JP','Hiragino Mincho ProN','Yu Mincho',serif">継続</text>
-<text x="1100" y="176" font-size="15" fill="#1E2A3A" text-anchor="middle" font-weight="400" font-family="'Shippori Mincho','Noto Serif JP','Hiragino Mincho ProN','Yu Mincho',serif">(12か月)</text>
-<text x="1100" y="204" font-size="14" fill="#5B6472" text-anchor="middle" font-weight="400">12か月後も続いているか</text>
-<path d="M30 236v10H570v-10" fill="none" stroke="#C9C2B4" stroke-width="1.5"/>
-<text x="300" y="282" font-size="14" fill="#5B6472" text-anchor="middle" font-weight="400" font-family="'Cormorant Garamond','Times New Roman',Georgia,serif" letter-spacing="2" font-style="italic">before</text>
-<text x="300" y="312" font-size="20" fill="#5B6472" text-anchor="middle" font-weight="600" font-family="'Shippori Mincho','Noto Serif JP','Hiragino Mincho ProN','Yu Mincho',serif">繋ぐまで</text>
-<text x="300" y="342" font-size="14" fill="#5B6472" text-anchor="middle" font-weight="400">多くの支援はここまでが中心</text>
-<path d="M630 236v10H1170v-10" fill="none" stroke="#C8733A" stroke-width="1.5"/>
-<rect x="630" y="262" width="540" height="140" fill="#1E2A3A"/>
-<text x="656" y="292" font-size="14" fill="#E9B48A" text-anchor="start" font-weight="400" font-family="'Cormorant Garamond','Times New Roman',Georgia,serif" letter-spacing="2" font-style="italic">after</text>
-<text x="712" y="293" font-size="19" fill="#FFFFFF" text-anchor="start" font-weight="600" font-family="'Shippori Mincho','Noto Serif JP','Hiragino Mincho ProN','Yu Mincho',serif">繋いだ後を運営する</text>
-<text x="720" y="348" font-size="15" fill="#E6E1D6" text-anchor="middle" font-weight="400">30日・90日の</text>
-<text x="720" y="374" font-size="18" fill="#FFFFFF" text-anchor="middle" font-weight="600" font-family="'Shippori Mincho','Noto Serif JP','Hiragino Mincho ProN','Yu Mincho',serif">フォロー</text>
-<path d="M810 320v62" stroke="#3A4758" stroke-width="1"/>
-<text x="900" y="348" font-size="15" fill="#E6E1D6" text-anchor="middle" font-weight="400">同業の先行会員の</text>
-<text x="900" y="374" font-size="18" fill="#FFFFFF" text-anchor="middle" font-weight="600" font-family="'Shippori Mincho','Noto Serif JP','Hiragino Mincho ProN','Yu Mincho',serif">共有会</text>
-<path d="M990 320v62" stroke="#3A4758" stroke-width="1"/>
-<text x="1080" y="348" font-size="15" fill="#E6E1D6" text-anchor="middle" font-weight="400">商習慣の</text>
-<text x="1080" y="374" font-size="18" fill="#FFFFFF" text-anchor="middle" font-weight="600" font-family="'Shippori Mincho','Noto Serif JP','Hiragino Mincho ProN','Yu Mincho',serif">短い講座</text>
+<defs><linearGradient id="g" x1="0" y1="0" x2="1" y2="0"><stop offset="0" stop-color="#cd0401"/><stop offset=".5" stop-color="#de300b"/><stop offset="1" stop-color="#ea5213"/></linearGradient><filter id="sh" x="-10%" y="-10%" width="120%" height="140%"><feDropShadow dx="0" dy="8" stdDeviation="7" flood-color="#323232" flood-opacity=".12"/></filter></defs>
+<rect width="1200" height="420" fill="#f6f6f6"/>
+<path d="M100 96H700" stroke="#d4d4d4" stroke-width="1.5"/><path d="M700 96H1100" stroke="#ea5213" stroke-width="1.5"/>
+<circle cx="100" cy="96" r="11" fill="#fff" stroke="#001c7b" stroke-width="1.5"/>
+<text x="100" y="58" font-size="16" fill="#6b6b6b" text-anchor="middle" font-weight="400" font-family="'Open Sans','Helvetica Neue',Arial,sans-serif" letter-spacing="1.5">01</text>
+<text x="100" y="150" font-size="22" fill="#323232" text-anchor="middle" font-weight="700">入会時カルテ</text>
+<text x="100" y="204" font-size="14" fill="#6b6b6b" text-anchor="middle" font-weight="400">目的と課題を聞き取る</text>
+<circle cx="300" cy="96" r="11" fill="#fff" stroke="#001c7b" stroke-width="1.5"/>
+<text x="300" y="58" font-size="16" fill="#6b6b6b" text-anchor="middle" font-weight="400" font-family="'Open Sans','Helvetica Neue',Arial,sans-serif" letter-spacing="1.5">02</text>
+<text x="300" y="150" font-size="22" fill="#323232" text-anchor="middle" font-weight="700">月次の集まり</text>
+<text x="300" y="204" font-size="14" fill="#6b6b6b" text-anchor="middle" font-weight="400">現地の相手と会う</text>
+<circle cx="500" cy="96" r="11" fill="#fff" stroke="#001c7b" stroke-width="1.5"/>
+<text x="500" y="58" font-size="16" fill="#6b6b6b" text-anchor="middle" font-weight="400" font-family="'Open Sans','Helvetica Neue',Arial,sans-serif" letter-spacing="1.5">03</text>
+<text x="500" y="150" font-size="22" fill="#323232" text-anchor="middle" font-weight="700">紹介</text>
+<text x="500" y="204" font-size="14" fill="#6b6b6b" text-anchor="middle" font-weight="400">必要な相手を引き合わせる</text>
+<circle cx="700" cy="96" r="13" fill="#fff" stroke="#ea5213" stroke-width="1.5"/><circle cx="700" cy="96" r="5" fill="#ea5213"/>
+<text x="700" y="58" font-size="16" fill="#cc0000" text-anchor="middle" font-weight="400" font-family="'Open Sans','Helvetica Neue',Arial,sans-serif" letter-spacing="1.5">04</text>
+<text x="700" y="150" font-size="22" fill="#323232" text-anchor="middle" font-weight="700">商談</text>
+<text x="700" y="204" font-size="14" fill="#6b6b6b" text-anchor="middle" font-weight="400">話を前に進める</text>
+<circle cx="900" cy="96" r="13" fill="#fff" stroke="#ea5213" stroke-width="1.5"/><circle cx="900" cy="96" r="5" fill="#ea5213"/>
+<text x="900" y="58" font-size="16" fill="#cc0000" text-anchor="middle" font-weight="400" font-family="'Open Sans','Helvetica Neue',Arial,sans-serif" letter-spacing="1.5">05</text>
+<text x="900" y="150" font-size="22" fill="#323232" text-anchor="middle" font-weight="700">協業</text>
+<text x="900" y="204" font-size="14" fill="#6b6b6b" text-anchor="middle" font-weight="400">一緒に仕事を始める</text>
+<circle cx="1100" cy="96" r="13" fill="#fff" stroke="#ea5213" stroke-width="1.5"/><circle cx="1100" cy="96" r="5" fill="#ea5213"/>
+<text x="1100" y="58" font-size="16" fill="#cc0000" text-anchor="middle" font-weight="400" font-family="'Open Sans','Helvetica Neue',Arial,sans-serif" letter-spacing="1.5">06</text>
+<text x="1100" y="150" font-size="22" fill="#323232" text-anchor="middle" font-weight="700">継続</text>
+<text x="1100" y="176" font-size="15" fill="#323232" text-anchor="middle" font-weight="400">(12か月)</text>
+<text x="1100" y="204" font-size="14" fill="#6b6b6b" text-anchor="middle" font-weight="400">12か月後も続いているか</text>
+<path d="M30 236v10H570v-10" fill="none" stroke="#d4d4d4" stroke-width="1.5"/>
+<text x="300" y="282" font-size="14" fill="#6b6b6b" text-anchor="middle" font-weight="500" font-family="'Open Sans','Helvetica Neue',Arial,sans-serif" letter-spacing="1.5">before</text>
+<text x="300" y="312" font-size="20" fill="#6b6b6b" text-anchor="middle" font-weight="700">繋ぐまで</text>
+<text x="300" y="342" font-size="14" fill="#6b6b6b" text-anchor="middle" font-weight="400">多くの支援はここまでが中心</text>
+<path d="M630 236v10H1170v-10" fill="none" stroke="url(#g)" stroke-width="1.5"/>
+<rect x="630" y="262" width="540" height="140" rx="4" fill="#fff" filter="url(#sh)"/>
+<rect x="630.75" y="262.75" width="538.5" height="138.5" rx="4" fill="none" stroke="url(#g)" stroke-width="1.5"/>
+<text x="656" y="293" font-size="14" fill="#cc0000" text-anchor="start" font-weight="500" font-family="'Open Sans','Helvetica Neue',Arial,sans-serif" letter-spacing="1.5">after</text>
+<text x="712" y="294" font-size="19" fill="#323232" text-anchor="start" font-weight="700">繋いだ後を運営する</text>
+<text x="720" y="348" font-size="15" fill="#6b6b6b" text-anchor="middle" font-weight="400">30日・90日の</text>
+<text x="720" y="374" font-size="18" fill="#323232" text-anchor="middle" font-weight="700">フォロー</text>
+<path d="M810 320v62" stroke="#d4d4d4" stroke-width="1"/>
+<text x="900" y="348" font-size="15" fill="#6b6b6b" text-anchor="middle" font-weight="400">同業の先行会員の</text>
+<text x="900" y="374" font-size="18" fill="#323232" text-anchor="middle" font-weight="700">共有会</text>
+<path d="M990 320v62" stroke="#d4d4d4" stroke-width="1"/>
+<text x="1080" y="348" font-size="15" fill="#6b6b6b" text-anchor="middle" font-weight="400">商習慣の</text>
+<text x="1080" y="374" font-size="18" fill="#323232" text-anchor="middle" font-weight="700">短い講座</text>
 </svg>

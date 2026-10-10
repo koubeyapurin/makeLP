@@ -1,33 +1,37 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 520" width="1200" height="520" role="img" aria-labelledby="t d" font-family="'Noto Sans JP','Hiragino Sans','Yu Gothic',Meiryo,sans-serif">
 <title id="t">お金の流れ</title>
 <desc id="d">会員(日本の事業者)からJTBへ、プログラム参加費(主収益)と会費(相場並み)が流れる。紹介料・成功報酬は取らず、席料は受け取らない。</desc>
-<rect width="1200" height="520" fill="#F4EFE6"/>
-<rect x="40" y="60" width="300" height="250" fill="#FBF8F2" stroke="#1E2A3A" stroke-width="1.2"/>
-<text x="190" y="100" font-size="14" fill="#A3521C" text-anchor="middle" font-weight="400" font-family="'Cormorant Garamond','Times New Roman',Georgia,serif" letter-spacing="2" font-style="italic">members</text>
-<text x="190" y="170" font-size="34" fill="#1E2A3A" text-anchor="middle" font-weight="600" font-family="'Shippori Mincho','Noto Serif JP','Hiragino Mincho ProN','Yu Mincho',serif">会員</text>
-<text x="190" y="210" font-size="15" fill="#5B6472" text-anchor="middle" font-weight="400">日本の観光・食・体験の</text>
-<text x="190" y="234" font-size="15" fill="#5B6472" text-anchor="middle" font-weight="400">事業者</text>
-<rect x="860" y="60" width="300" height="250" fill="#1E2A3A"/>
-<text x="1010" y="100" font-size="14" fill="#E9B48A" text-anchor="middle" font-weight="400" font-family="'Cormorant Garamond','Times New Roman',Georgia,serif" letter-spacing="2" font-style="italic">organizer</text>
-<text x="1010" y="170" font-size="34" fill="#FFFFFF" text-anchor="middle" font-weight="600" font-family="'Shippori Mincho','Noto Serif JP','Hiragino Mincho ProN','Yu Mincho',serif">JTB</text>
-<text x="1010" y="210" font-size="15" fill="#E6E1D6" text-anchor="middle" font-weight="400">出会いの運営</text>
-<path d="M350 130H840M824 120l16 10-16 10" fill="none" stroke="#C8733A" stroke-width="3"/>
-<text x="600" y="108" font-size="24" fill="#1E2A3A" text-anchor="middle" font-weight="600" font-family="'Shippori Mincho','Noto Serif JP','Hiragino Mincho ProN','Yu Mincho',serif">プログラム参加費</text>
-<rect x="525" y="140" width="150" height="30" rx="15" fill="#C8733A"/><text x="600" y="161" font-size="15" fill="#FFFFFF" text-anchor="middle" font-weight="600">主収益</text>
-<text x="600" y="194" font-size="15" fill="#5B6472" text-anchor="middle" font-weight="400">商談会・視察・テスト販売</text>
-<path d="M350 250H840M824 242l16 8-16 8" fill="none" stroke="#1E2A3A" stroke-width="1.5"/>
-<text x="600" y="236" font-size="20" fill="#1E2A3A" text-anchor="middle" font-weight="600" font-family="'Shippori Mincho','Noto Serif JP','Hiragino Mincho ProN','Yu Mincho',serif">会費(相場並み)</text>
-<text x="600" y="280" font-size="15" fill="#5B6472" text-anchor="middle" font-weight="400">入会審査とセットで、参加者の質を守る</text>
-<path d="M40 358H1160" stroke="#C9C2B4"/>
-<text x="40" y="400" font-size="14" fill="#5B6472" text-anchor="start" font-weight="400" font-family="'Cormorant Garamond','Times New Roman',Georgia,serif" letter-spacing="2" font-style="italic">what we do not take</text>
-<text x="40" y="436" font-size="22" fill="#1E2A3A" text-anchor="start" font-weight="600" font-family="'Shippori Mincho','Noto Serif JP','Hiragino Mincho ProN','Yu Mincho',serif">取らないもの</text>
-<circle cx="342" cy="428" r="18" fill="none" stroke="#1E2A3A" stroke-width="1.5"/><path d="M330 416l24 24M354 416l-24 24" stroke="#1E2A3A" stroke-width="1.5"/>
-<text x="374" y="424" font-size="20" fill="#1E2A3A" text-anchor="start" font-weight="600" font-family="'Shippori Mincho','Noto Serif JP','Hiragino Mincho ProN','Yu Mincho',serif">紹介料</text>
-<text x="374" y="450" font-size="14" fill="#5B6472" text-anchor="start" font-weight="400">紹介でもうけない</text>
-<circle cx="622" cy="428" r="18" fill="none" stroke="#1E2A3A" stroke-width="1.5"/><path d="M610 416l24 24M634 416l-24 24" stroke="#1E2A3A" stroke-width="1.5"/>
-<text x="654" y="424" font-size="20" fill="#1E2A3A" text-anchor="start" font-weight="600" font-family="'Shippori Mincho','Noto Serif JP','Hiragino Mincho ProN','Yu Mincho',serif">成功報酬</text>
-<text x="654" y="450" font-size="14" fill="#5B6472" text-anchor="start" font-weight="400">商談の結果で取らない</text>
-<circle cx="902" cy="428" r="18" fill="none" stroke="#1E2A3A" stroke-width="1.5"/><path d="M890 416l24 24M914 416l-24 24" stroke="#1E2A3A" stroke-width="1.5"/>
-<text x="934" y="424" font-size="20" fill="#1E2A3A" text-anchor="start" font-weight="600" font-family="'Shippori Mincho','Noto Serif JP','Hiragino Mincho ProN','Yu Mincho',serif">席料</text>
-<text x="934" y="450" font-size="14" fill="#5B6472" text-anchor="start" font-weight="400">場所は主役にしない</text>
+<defs><linearGradient id="g" x1="0" y1="0" x2="1" y2="0"><stop offset="0" stop-color="#cd0401"/><stop offset=".5" stop-color="#de300b"/><stop offset="1" stop-color="#ea5213"/></linearGradient><filter id="sh" x="-10%" y="-10%" width="120%" height="140%"><feDropShadow dx="0" dy="8" stdDeviation="7" flood-color="#323232" flood-opacity=".12"/></filter></defs>
+<rect width="1200" height="520" fill="#f6f6f6"/>
+<rect x="40" y="60" width="300" height="250" rx="4" fill="#fff" filter="url(#sh)"/>
+<rect x="40" y="60" width="300" height="3" fill="#001c7b"/>
+<text x="190" y="100" font-size="14" fill="#001c7b" text-anchor="middle" font-weight="500" font-family="'Open Sans','Helvetica Neue',Arial,sans-serif" letter-spacing="1.5">members</text>
+<text x="190" y="170" font-size="34" fill="#323232" text-anchor="middle" font-weight="700">会員</text>
+<text x="190" y="210" font-size="15" fill="#6b6b6b" text-anchor="middle" font-weight="400">日本の観光・食・体験の</text>
+<text x="190" y="234" font-size="15" fill="#6b6b6b" text-anchor="middle" font-weight="400">事業者</text>
+<rect x="860" y="60" width="300" height="250" rx="4" fill="#fff" filter="url(#sh)"/>
+<rect x="860.75" y="60.75" width="298.5" height="248.5" rx="4" fill="none" stroke="url(#g)" stroke-width="1.5"/>
+<text x="1010" y="100" font-size="14" fill="#cc0000" text-anchor="middle" font-weight="500" font-family="'Open Sans','Helvetica Neue',Arial,sans-serif" letter-spacing="1.5">organizer</text>
+<text x="1010" y="170" font-size="34" fill="#323232" text-anchor="middle" font-weight="700">JTB</text>
+<text x="1010" y="210" font-size="15" fill="#6b6b6b" text-anchor="middle" font-weight="400">出会いの運営</text>
+<path d="M350 130H840M824 120l16 10-16 10" fill="none" stroke="url(#g)" stroke-width="3"/>
+<text x="600" y="108" font-size="24" fill="#323232" text-anchor="middle" font-weight="700">プログラム参加費</text>
+<rect x="540.0" y="141.0" width="120" height="30" rx="15.0" fill="#fff" stroke="#cc0000" stroke-width="1.5"/>
+<text x="600" y="161.4" font-size="15" fill="#cc0000" text-anchor="middle" font-weight="700">主収益</text>
+<text x="600" y="196" font-size="15" fill="#6b6b6b" text-anchor="middle" font-weight="400">商談会・視察・テスト販売</text>
+<path d="M350 250H840M824 242l16 8-16 8" fill="none" stroke="#001c7b" stroke-width="1.5"/>
+<text x="600" y="236" font-size="20" fill="#323232" text-anchor="middle" font-weight="700">会費(相場並み)</text>
+<text x="600" y="280" font-size="15" fill="#6b6b6b" text-anchor="middle" font-weight="400">入会審査とセットで、参加者の質を守る</text>
+<path d="M40 358H1160" stroke="#d4d4d4"/>
+<text x="40" y="400" font-size="13" fill="#cc0000" text-anchor="start" font-weight="500" font-family="'Open Sans','Helvetica Neue',Arial,sans-serif" letter-spacing="1.5">what we do not take</text>
+<text x="40" y="436" font-size="22" fill="#323232" text-anchor="start" font-weight="700">取らないもの</text>
+<circle cx="342" cy="428" r="18" fill="#fff" stroke="#cc0000" stroke-width="1.5"/><path d="M329.3 415.3l25.4 25.4" stroke="#cc0000" stroke-width="1.5"/>
+<text x="374" y="424" font-size="20" fill="#323232" text-anchor="start" font-weight="700">紹介料</text>
+<text x="374" y="450" font-size="14" fill="#6b6b6b" text-anchor="start" font-weight="400">紹介でもうけない</text>
+<circle cx="622" cy="428" r="18" fill="#fff" stroke="#cc0000" stroke-width="1.5"/><path d="M609.3 415.3l25.4 25.4" stroke="#cc0000" stroke-width="1.5"/>
+<text x="654" y="424" font-size="20" fill="#323232" text-anchor="start" font-weight="700">成功報酬</text>
+<text x="654" y="450" font-size="14" fill="#6b6b6b" text-anchor="start" font-weight="400">商談の結果で取らない</text>
+<circle cx="902" cy="428" r="18" fill="#fff" stroke="#cc0000" stroke-width="1.5"/><path d="M889.3 415.3l25.4 25.4" stroke="#cc0000" stroke-width="1.5"/>
+<text x="934" y="424" font-size="20" fill="#323232" text-anchor="start" font-weight="700">席料</text>
+<text x="934" y="450" font-size="14" fill="#6b6b6b" text-anchor="start" font-weight="400">場所は主役にしない</text>
 </svg>
