@@ -1,43 +1,38 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 520" width="1200" height="520" role="img" aria-labelledby="t d" font-family="'Noto Sans JP','Hiragino Sans','Yu Gothic',Meiryo,sans-serif">
 <title id="t">課題から解決への図</title>
 <desc id="d">現地に知り合いがいない、情報が不足している、拠点を借りても出会えない、という3つの課題に対し、常設の出会いの運営で応える。</desc>
-<defs><linearGradient id="g" x1="0" y1="0" x2="1" y2="0"><stop offset="0" stop-color="#cd0401"/><stop offset=".5" stop-color="#de300b"/><stop offset="1" stop-color="#ea5213"/></linearGradient><filter id="sh" x="-10%" y="-10%" width="120%" height="140%"><feDropShadow dx="0" dy="8" stdDeviation="7" flood-color="#323232" flood-opacity=".12"/></filter></defs>
-<rect width="1200" height="520" fill="#f6f6f6"/>
-<text x="40" y="58" font-size="15" fill="#cc0000" text-anchor="start" font-weight="500" font-family="'Open Sans','Helvetica Neue',Arial,sans-serif" letter-spacing="1.5">PROBLEM</text>
-<text x="40" y="90" font-size="21" fill="#323232" text-anchor="start" font-weight="700">海外進出でよくある不安</text>
-<rect x="40" y="116" width="460" height="100" rx="4" fill="#fff" filter="url(#sh)"/>
-<rect x="40" y="116" width="460" height="3" fill="#001c7b"/>
-<circle cx="88" cy="168" r="22" fill="none" stroke="#001c7b" stroke-width="1.5"/><text x="88" y="176" font-size="20" fill="#001c7b" text-anchor="middle" font-weight="300" font-family="'Open Sans','Helvetica Neue',Arial,sans-serif">1</text>
-<text x="132" y="162" font-size="22" fill="#323232" text-anchor="start" font-weight="700">現地に知り合いがいない</text>
-<text x="132" y="192" font-size="15" fill="#6b6b6b" text-anchor="start" font-weight="400">相談できる相手も、出会う糸口もない</text>
-<rect x="40" y="238" width="460" height="100" rx="4" fill="#fff" filter="url(#sh)"/>
-<rect x="40" y="238" width="460" height="3" fill="#001c7b"/>
-<circle cx="88" cy="290" r="22" fill="none" stroke="#001c7b" stroke-width="1.5"/><text x="88" y="298" font-size="20" fill="#001c7b" text-anchor="middle" font-weight="300" font-family="'Open Sans','Helvetica Neue',Arial,sans-serif">2</text>
-<text x="132" y="284" font-size="22" fill="#323232" text-anchor="start" font-weight="700">情報が不足している</text>
-<text x="132" y="314" font-size="15" fill="#6b6b6b" text-anchor="start" font-weight="400">一歩目を踏み出しにくい</text>
-<rect x="40" y="360" width="460" height="100" rx="4" fill="#fff" filter="url(#sh)"/>
-<rect x="40" y="360" width="460" height="3" fill="#001c7b"/>
-<circle cx="88" cy="412" r="22" fill="none" stroke="#001c7b" stroke-width="1.5"/><text x="88" y="420" font-size="20" fill="#001c7b" text-anchor="middle" font-weight="300" font-family="'Open Sans','Helvetica Neue',Arial,sans-serif">3</text>
-<text x="132" y="406" font-size="22" fill="#323232" text-anchor="start" font-weight="700">拠点を借りても出会えない</text>
-<text x="132" y="436" font-size="15" fill="#6b6b6b" text-anchor="start" font-weight="400">場所があるだけでは、交流は生まれない</text>
-<path d="M512 290C560 200 640 200 680 290" fill="none" stroke="url(#g)" stroke-width="1.5"/>
-<path d="M512 300C560 380 640 380 680 300" fill="none" stroke="#d4d4d4" stroke-width="1.2" stroke-dasharray="3 5"/>
-<circle cx="512" cy="290" r="4" fill="#001c7b"/><path d="M673 283L680 290L687 283" fill="none" stroke="#ea5213" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/>
-<rect x="554.0" y="215.0" width="84" height="34" rx="17.0" fill="#fff" stroke="url(#g)" stroke-width="1.5"/>
-<text x="596" y="237.25" font-size="15" fill="#323232" text-anchor="middle" font-weight="700">解決</text>
-<rect x="700" y="116" width="460" height="344" rx="4" fill="#fff" filter="url(#sh)"/>
-<rect x="700.75" y="116.75" width="458.5" height="342.5" rx="4" fill="none" stroke="url(#g)" stroke-width="1.5"/>
-<text x="740" y="172" font-size="15" fill="#cc0000" text-anchor="start" font-weight="500" font-family="'Open Sans','Helvetica Neue',Arial,sans-serif" letter-spacing="1.5">SOLUTION</text>
-<text x="740" y="234" font-size="38" fill="#323232" text-anchor="start" font-weight="700">常設の出会いの運営</text>
-<path d="M740 260h60" stroke="#cc0000" stroke-width="3"/>
-<text x="740" y="300" font-size="18" fill="#323232" text-anchor="start" font-weight="400">場所を貸すのではなく、</text>
-<text x="740" y="330" font-size="18" fill="#323232" text-anchor="start" font-weight="400">出会いの運営を届ける。</text>
-<rect x="740.0" y="372.0" width="110" height="44" rx="22.0" fill="#fff" stroke="#001c7b" stroke-width="1.5"/>
-<text x="795" y="399.95" font-size="17" fill="#323232" text-anchor="middle" font-weight="700">拠点</text>
-<text x="870" y="401" font-size="20" fill="#cc0000" text-anchor="middle" font-weight="400">×</text>
-<rect x="890.0" y="372.0" width="110" height="44" rx="22.0" fill="#fff" stroke="url(#g)" stroke-width="1.5"/>
-<text x="945" y="399.95" font-size="17" fill="#323232" text-anchor="middle" font-weight="700">運営</text>
-<text x="1020" y="401" font-size="20" fill="#cc0000" text-anchor="middle" font-weight="400">×</text>
-<rect x="1032.0" y="372.0" width="90" height="44" rx="22.0" fill="#fff" stroke="#005064" stroke-width="1.5"/>
-<text x="1077" y="399.95" font-size="17" fill="#323232" text-anchor="middle" font-weight="700">交流</text>
+<rect width="1200" height="520" fill="#F7F8FA"/>
+<text x="40" y="62" font-size="15" letter-spacing="3" fill="#B08D3E" font-weight="700">PROBLEM</text>
+<text x="40" y="92" font-size="22" fill="#0B1530" font-weight="700">海外進出でよくある不安</text>
+<g>
+<rect x="40" y="116" width="460" height="104" rx="8" fill="#fff" stroke="#DDE1E8"/>
+<circle cx="88" cy="168" r="24" fill="none" stroke="#B08D3E" stroke-width="2"/><text x="88" y="176" font-size="22" text-anchor="middle" fill="#B08D3E" font-weight="700">1</text>
+<text x="136" y="162" font-size="24" fill="#0B1530" font-weight="700">現地に知り合いがいない</text>
+<text x="136" y="194" font-size="16" fill="#5A6478">相談できる相手も、出会う糸口もない</text>
+<rect x="40" y="238" width="460" height="104" rx="8" fill="#fff" stroke="#DDE1E8"/>
+<circle cx="88" cy="290" r="24" fill="none" stroke="#B08D3E" stroke-width="2"/><text x="88" y="298" font-size="22" text-anchor="middle" fill="#B08D3E" font-weight="700">2</text>
+<text x="136" y="284" font-size="24" fill="#0B1530" font-weight="700">情報が不足している</text>
+<text x="136" y="316" font-size="16" fill="#5A6478">一歩目を踏み出しにくい</text>
+<rect x="40" y="360" width="460" height="104" rx="8" fill="#fff" stroke="#DDE1E8"/>
+<circle cx="88" cy="412" r="24" fill="none" stroke="#B08D3E" stroke-width="2"/><text x="88" y="420" font-size="22" text-anchor="middle" fill="#B08D3E" font-weight="700">3</text>
+<text x="136" y="406" font-size="24" fill="#0B1530" font-weight="700">拠点を借りても出会えない</text>
+<text x="136" y="438" font-size="16" fill="#5A6478">場所があるだけでは、交流は生まれない</text>
+</g>
+<g fill="none" stroke="#B08D3E" stroke-width="3" stroke-linecap="round" stroke-linejoin="round">
+<path d="M530 290h130"/><path d="M644 272l18 18-18 18"/></g>
+<text x="596" y="270" font-size="15" text-anchor="middle" fill="#B08D3E" font-weight="700" letter-spacing="2">解決</text>
+<rect x="690" y="116" width="470" height="348" rx="8" fill="#0B1530"/>
+<rect x="690" y="116" width="470" height="6" rx="3" fill="#B08D3E"/>
+<text x="730" y="172" font-size="15" letter-spacing="3" fill="#EFD98A" font-weight="700">SOLUTION</text>
+<text x="730" y="236" font-size="40" fill="#fff" font-weight="700">常設の出会いの運営</text>
+<path d="M730 262h60" stroke="#B08D3E" stroke-width="2"/>
+<text x="730" y="300" font-size="18" fill="#E6E9F0">場所を貸すのではなく、</text>
+<text x="730" y="328" font-size="18" fill="#E6E9F0">出会いの運営を届ける。</text>
+<g font-size="18" font-weight="700" text-anchor="middle">
+<rect x="730" y="372" width="110" height="44" rx="22" fill="none" stroke="#EFD98A"/><text x="785" y="401" fill="#EFD98A">拠点</text>
+<text x="862" y="402" font-size="20" fill="#B08D3E">×</text>
+<rect x="884" y="372" width="110" height="44" rx="22" fill="none" stroke="#EFD98A"/><text x="939" y="401" fill="#EFD98A">運営</text>
+<text x="1016" y="402" font-size="20" fill="#B08D3E">×</text>
+<rect x="1038" y="372" width="86" height="44" rx="22" fill="none" stroke="#EFD98A"/><text x="1081" y="401" fill="#EFD98A">交流</text>
+</g>
 </svg>
