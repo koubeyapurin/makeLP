@@ -1,35 +1,33 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 520" width="1200" height="520" role="img" aria-labelledby="t d" font-family="'Noto Sans JP','Hiragino Sans','Yu Gothic',Meiryo,sans-serif">
 <title id="t">収益4本柱</title>
 <desc id="d">賃料、会員費、運営収益、公的受託の4本柱。紹介料・成功報酬は取らない。</desc>
-<defs><linearGradient id="g" x1="0" y1="0" x2="1" y2="0"><stop offset="0" stop-color="#cd0401"/><stop offset=".5" stop-color="#de300b"/><stop offset="1" stop-color="#ea5213"/></linearGradient><filter id="sh" x="-10%" y="-10%" width="120%" height="140%"><feDropShadow dx="0" dy="8" stdDeviation="7" flood-color="#323232" flood-opacity=".12"/></filter></defs>
-<rect width="1200" height="520" fill="#f6f6f6"/>
-<text x="600" y="68" font-size="26" fill="#323232" text-anchor="middle" font-weight="700">収益の4本柱</text>
-<path d="M570 90h60" stroke="#cc0000" stroke-width="3"/>
-<rect x="40" y="124" width="250" height="230" rx="4" fill="#fff" filter="url(#sh)"/>
-<rect x="40" y="124" width="250" height="3" fill="#001c7b"/>
-<text x="165" y="186" font-size="30" fill="#cc0000" text-anchor="middle" font-weight="300" font-family="'Open Sans','Helvetica Neue',Arial,sans-serif">01</text>
-<text x="165" y="246" font-size="32" fill="#323232" text-anchor="middle" font-weight="700">賃料</text>
-<path d="M145 272h40" stroke="#d4d4d4" stroke-width="1.5"/>
-<text x="165" y="310" font-size="16" fill="#6b6b6b" text-anchor="middle" font-weight="400">入居企業の拠点利用</text>
-<rect x="330" y="124" width="250" height="230" rx="4" fill="#fff" filter="url(#sh)"/>
-<rect x="330" y="124" width="250" height="3" fill="#001c7b"/>
-<text x="455" y="186" font-size="30" fill="#cc0000" text-anchor="middle" font-weight="300" font-family="'Open Sans','Helvetica Neue',Arial,sans-serif">02</text>
-<text x="455" y="246" font-size="32" fill="#323232" text-anchor="middle" font-weight="700">会員費</text>
-<path d="M435 272h40" stroke="#d4d4d4" stroke-width="1.5"/>
-<text x="455" y="310" font-size="16" fill="#6b6b6b" text-anchor="middle" font-weight="400">交流への参加会員</text>
-<rect x="620" y="124" width="250" height="230" rx="4" fill="#fff" filter="url(#sh)"/>
-<rect x="620" y="124" width="250" height="3" fill="url(#g)"/>
-<text x="745" y="186" font-size="30" fill="#cc0000" text-anchor="middle" font-weight="300" font-family="'Open Sans','Helvetica Neue',Arial,sans-serif">03</text>
-<text x="745" y="246" font-size="32" fill="#323232" text-anchor="middle" font-weight="700">運営収益</text>
-<path d="M725 272h40" stroke="#d4d4d4" stroke-width="1.5"/>
-<text x="745" y="310" font-size="16" fill="#6b6b6b" text-anchor="middle" font-weight="400">月次プログラムなど</text>
-<rect x="910" y="124" width="250" height="230" rx="4" fill="#fff" filter="url(#sh)"/>
-<rect x="910" y="124" width="250" height="3" fill="#005064"/>
-<text x="1035" y="186" font-size="30" fill="#cc0000" text-anchor="middle" font-weight="300" font-family="'Open Sans','Helvetica Neue',Arial,sans-serif">04</text>
-<text x="1035" y="246" font-size="32" fill="#323232" text-anchor="middle" font-weight="700">公的受託</text>
-<path d="M1015 272h40" stroke="#d4d4d4" stroke-width="1.5"/>
-<text x="1035" y="310" font-size="16" fill="#6b6b6b" text-anchor="middle" font-weight="400">自治体・公的機関から</text>
-<rect x="300" y="404" width="600" height="68" rx="34" fill="#fff" stroke="url(#g)" stroke-width="1.5"/>
-<circle cx="354" cy="438" r="14" fill="none" stroke="#cc0000" stroke-width="1.5"/><path d="M344 428l20 20" stroke="#cc0000" stroke-width="1.5"/>
-<text x="620" y="448" font-size="26" fill="#323232" text-anchor="middle" font-weight="700">紹介料・成功報酬は取らない</text>
-</svg>
+<rect width="1200" height="520" fill="#F7F8FA"/><g transform="translate(0,22)">
+<rect x="40" y="30" width="1120" height="56" rx="8" fill="#0B1530"/>
+<text x="600" y="66" font-size="22" text-anchor="middle" fill="#fff" font-weight="700">収益の4本柱</text>
+<rect x="40" y="83" width="1120" height="4" fill="#B08D3E"/>
+<g font-weight="700">
+<rect x="40" y="110" width="250" height="230" rx="6" fill="#fff" stroke="#DDE1E8"/>
+<text x="165" y="162" font-size="16" letter-spacing="3" text-anchor="middle" fill="#B08D3E">01</text>
+<text x="165" y="214" font-size="34" text-anchor="middle" fill="#0B1530">賃料</text>
+<path d="M135 238h60" stroke="#B08D3E" stroke-width="2"/>
+<text x="165" y="282" font-size="17" text-anchor="middle" fill="#5A6478" font-weight="400">入居企業の拠点利用</text>
+<rect x="330" y="110" width="250" height="230" rx="6" fill="#fff" stroke="#DDE1E8"/>
+<text x="455" y="162" font-size="16" letter-spacing="3" text-anchor="middle" fill="#B08D3E">02</text>
+<text x="455" y="214" font-size="34" text-anchor="middle" fill="#0B1530">会員費</text>
+<path d="M425 238h60" stroke="#B08D3E" stroke-width="2"/>
+<text x="455" y="282" font-size="17" text-anchor="middle" fill="#5A6478" font-weight="400">交流への参加会員</text>
+<rect x="620" y="110" width="250" height="230" rx="6" fill="#fff" stroke="#DDE1E8"/>
+<text x="745" y="162" font-size="16" letter-spacing="3" text-anchor="middle" fill="#B08D3E">03</text>
+<text x="745" y="214" font-size="34" text-anchor="middle" fill="#0B1530">運営収益</text>
+<path d="M715 238h60" stroke="#B08D3E" stroke-width="2"/>
+<text x="745" y="282" font-size="17" text-anchor="middle" fill="#5A6478" font-weight="400">月次プログラムなど</text>
+<rect x="910" y="110" width="250" height="230" rx="6" fill="#fff" stroke="#DDE1E8"/>
+<text x="1035" y="162" font-size="16" letter-spacing="3" text-anchor="middle" fill="#B08D3E">04</text>
+<text x="1035" y="214" font-size="34" text-anchor="middle" fill="#0B1530">公的受託</text>
+<path d="M1005 238h60" stroke="#B08D3E" stroke-width="2"/>
+<text x="1035" y="282" font-size="17" text-anchor="middle" fill="#5A6478" font-weight="400">自治体・公的機関から</text>
+</g>
+<rect x="40" y="340" width="1120" height="4" fill="#B08D3E"/>
+<rect x="40" y="372" width="1120" height="76" rx="8" fill="#fff" stroke="#B08D3E" stroke-width="2"/>
+<text x="600" y="420" font-size="28" text-anchor="middle" fill="#0B1530" font-weight="700">紹介料・成功報酬は取らない</text>
+</g></svg>
